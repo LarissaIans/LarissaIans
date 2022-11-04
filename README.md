@@ -1,5 +1,17 @@
 - 👋 Hi, I’m @LarissaIans
-- 👀 I’m interested  em  expandir meus negóci
+- 👀 I’m interested expanding my business
+LarissaIans/README.md
+￼Create
+1
+- 👋 Hi, I’m @LarissaIans
+2
+- 👀 I’m interested in ...
+LarissaIans/README.md
+￼Create
+1
+- 👋 Hi, I’m @LarissaIans
+2
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning  programação
 - 💞️ I’m looking to collaborate in projects 
 - 📫 How to reach me @larissaians instagram
